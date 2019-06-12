@@ -54,4 +54,4 @@ Classification of Acoustic Scenes and Events (DCASE2016 и DCASE2017) и пос�
 ## Эксперименты
 Для первой архитектуры тестируем циклическое расписание изменения lr (два диапазона изменения). Однако оказывается, что по сравнению с постоянным lr циклическое расписание не дает прироста в качестве:
 
-![clr_lr](https://github.com/mariyashcheg/kaggle-freesound-2019/blob/master/img/lr_lwlrap.png)
+![clr_lr](https://github.com/mariyashcheg/kaggle-freesound-2019/blob/master/img/clr_lwlrap.png)
